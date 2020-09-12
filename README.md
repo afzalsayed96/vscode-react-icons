@@ -1,4 +1,4 @@
-<img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="120" alt="React Icons">
+![logo](media/logo.png)
 
 # [React Icons](https://react-icons.github.io/react-icons)
 

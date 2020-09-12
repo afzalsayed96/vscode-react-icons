@@ -1,8 +1,14 @@
 {
   "name": "reacticons",
-	"displayName": "reacticons",
+	"displayName": "React Icons",
 	"description": "",
-	"version": "0.0.1",
+	"publisher": "afzalsayed96",
+	"repository": {
+		"url": "https://github.com/afzalsayed96/vscode-react-icons"
+	},
+	"icon": "media/logo.png",
+	"license": "MIT",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
