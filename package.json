@@ -1,5 +1,5 @@
 {
-  "name": "reacticons",
+	"name": "reacticons",
 	"displayName": "React Icons",
 	"description": "",
 	"publisher": "afzalsayed96",
@@ -8,7 +8,7 @@
 	},
 	"icon": "media/logo.png",
 	"license": "MIT",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
@@ -16,7 +16,7 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:reacticons.reacticons"
+		"onCommand:reacticons.reacticons"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
