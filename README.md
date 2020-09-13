@@ -1,5 +1,4 @@
-<img src=media/logo.png height=100>
-<img src=media/vscode.jpeg height=100>
+<img src=media/logo.png height=100 style="display:inline-block"> <img src=media/vscode.jpeg height=100 style="display:inline-block">
 
 # React Icons for VS Code
 
