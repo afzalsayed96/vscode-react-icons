@@ -1,8 +1,19 @@
-![logo](media/logo.png)
+<img src=media/logo.png height=100>
+<img src=media/vscode.jpeg height=100>
 
-# [React Icons](https://react-icons.github.io/react-icons)
+# React Icons for VS Code
 
-## Icons
+Search and paste icons into you code as SVG or JSX for your web projects
+
+<img src=media/react-icons-demo.gif>
+
+## Usage
+
+1. Open up command pallete with `cmd + k`
+2. Enter command `React Icons`
+
+
+## Avaialabele Icons
 
 | Icon Library                                                            | License                                                                                           | Version                                  |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------- |
@@ -25,3 +36,9 @@
 | [BoxIcons](https://github.com/atisawd/boxicons)                         | [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)                                 | 2.0.5                                    |
 | [css.gg](https://github.com/astrit/css.gg)                              | [MIT](https://opensource.org/licenses/MIT)                                                        | 2.0.0                                    |
 | [VS Code Icons](https://github.com/microsoft/vscode-codicons)           | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                         | 0.0.1                                    |
+
+## Credits
+
+This project stand on the shoulders of original [`react-icons`](https://github.com/react-icons/react-icons) library.
+
+If you found it helpful, give them a star and consider buying their creator a coffee/beer
