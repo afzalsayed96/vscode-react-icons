@@ -1,16 +1,15 @@
-<img src=media/logo.png height=100 style="display:inline-block"> <img src=media/vscode.jpeg height=100 style="display:inline-block">
+<img src="./media/logo.png" height=100 style="display:inline-block"> <img src="./media/vscode.jpeg" height=100 style="display:inline-block">
 
 # React Icons for VS Code
 
 Search and paste icons into you code as SVG or JSX for your web projects
-
-<img src=media/react-icons-demo.gif>
 
 ## Usage
 
 1. Open up command pallete with `cmd + k`
 2. Enter command `React Icons`
 
+<img src="media/react-icons-demo.gif">
 
 ## Avaialabele Icons
 
@@ -38,6 +37,6 @@ Search and paste icons into you code as SVG or JSX for your web projects
 
 ## Credits
 
-This project stand on the shoulders of original [`react-icons`](https://github.com/react-icons/react-icons) library.
+This project stands on the shoulders of original [`react-icons`](https://github.com/react-icons/react-icons) library.
 
-If you found it helpful, give them a star and consider buying their creator a coffee/beer
+If you found it helpful, give them a star on GitHub and consider buying their creator a coffee/beer
