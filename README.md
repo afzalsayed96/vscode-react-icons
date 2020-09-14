@@ -35,6 +35,12 @@ Search and paste icons into you code as SVG or JSX for your web projects
 | [css.gg](https://github.com/astrit/css.gg)                              | [MIT](https://opensource.org/licenses/MIT)                                                        | 2.0.0                                    |
 | [VS Code Icons](https://github.com/microsoft/vscode-codicons)           | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                         | 0.0.1                                    |
 
+## FAQs
+
+1. Extension is not compatible with my VS Code version
+
+A: Please update to the latest version of VS Code `v1.49+`
+
 ## Credits
 
 This project stands on the shoulders of original [`react-icons`](https://github.com/react-icons/react-icons) library.
