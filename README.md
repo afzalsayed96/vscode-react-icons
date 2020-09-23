@@ -8,7 +8,7 @@ Search and paste icons into you code as SVG or JSX for your web projects
 
 ## Usage
 
-1. Open up command pallete with `cmd + k`
+1. Open up command pallete with `cmd+shift+p`
 2. Enter command `React Icons`
 
 <img src="media/react-icons-demo.gif">
