@@ -1,5 +1,7 @@
 <img src="./media/logo.png" height=100 style="display:inline-block"> <img src="./media/vscode.jpeg" height=100 style="display:inline-block">
 
+_Pssst, also checkout **[Icones](https://marketplace.visualstudio.com/items?itemName=afzalsayed96.icones)** for VS Code_
+
 # React Icons for VS Code
 
 Search and paste icons into you code as SVG or JSX for your web projects
